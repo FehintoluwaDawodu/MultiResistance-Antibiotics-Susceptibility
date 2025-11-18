@@ -12,6 +12,7 @@ WebsiteKaggle – Multi-Resistance Antibiotic Susceptibility[]
 ## Process & Tools:
 Using Power Query, the dataset was cleaned and transformed to prepare for analysis. Microsoft Power BI was then used to build interactive dashboards that visualize resistance levels, antibiotic susceptibility, and the impact of patient-related factors. These visual insights help reveal emerging resistance trends and correlations between health conditions and bacterial responseer BI
 
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/7225a6e9-b22f-4325-85e7-9829d3e056a4" />
 
 ## Outcome
 The project provides data-driven insights to support healthcare professionals in monitoring resistance patterns, identifying high-risk bacteria, and improving antibiotic stewardship strategies. The dashboard helps drive evidence-based decisions for infection control and treatment planning.
