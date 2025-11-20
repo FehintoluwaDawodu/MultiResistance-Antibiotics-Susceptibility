@@ -20,16 +20,28 @@ The project provides data-driven insights to support healthcare professionals in
 ### Overview
 Of the 7784 samples tested, 32.4% of the samples were resistant to antibiotics. In 2021, the resistant rate was the highest, while 2025 has recorded the lowest resistant rate. This could be due to  increase in awareness of antibiotics resistance  in the community.
 
+![Overview](https://github.com/FehintoluwaDawodu/MultiResistance-Antibiotics-Susceptibility/blob/main/Screenshot%20(1).png)
+
 ### Bacteria
 _Eucherichia coli_ had the highest test samples and resistance rate among the strains of bacteria tested. The test was free of bias because, the number of sample did ot influence resistance rate. For instance, _Enterobacter spp_ with the second highest test samples was not the next in resistant rate.
+
+![Bacteria](https://github.com/FehintoluwaDawodu/MultiResistance-Antibiotics-Susceptibility/blob/main/Screenshot%20(2).png)
 
 ### Antibiotics
 Amoxicillin and the ampicillin/cloxacillin combination were the antibiotics that most bacterias were resistant to.
 
+![Antibiotics](https://github.com/FehintoluwaDawodu/MultiResistance-Antibiotics-Susceptibility/blob/main/Screenshot%20(3).png)
+
 ### Patient demography
 Hypertensive and diabetes status did not have significant effect on resistant rate. Only gender had a significant effect on resistant rate. Male were more resistant to antibiotics than female.
 
+![Patient demography](https://github.com/FehintoluwaDawodu/MultiResistance-Antibiotics-Susceptibility/blob/main/Screenshot%20(4).png)
 
-###
+## Reccomendation
+- More awareness about the effect of improper usage of antibiotics should be carry out especially to men.
+- Special medical attention should be given to patients with samples that contain _Eucherichia coli_ due to it high resistant rate
+- Antibiotics selection for treatment should focus on antibiotics that have low resistance like gentamicin.
 
-## Project Overview
+
+
+
